@@ -137,7 +137,7 @@ docker push DOCKERHUB_USERNAME/backend:v1
 
 ---
 
-## ☸️ 6. Kubernetes Manifests
+## 6. Kubernetes Manifests
 
 ---
 
